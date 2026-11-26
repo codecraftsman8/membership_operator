@@ -62,7 +62,7 @@ for name in participants:
 # question 
 
 customer_ids = [101,102,103,101,102,105]
-output = [101,102,103,104,105]
+output = [101,102,103,105]
 
 unique =[]
 
